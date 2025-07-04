@@ -1,73 +1,67 @@
-FarmaSUS 🏥
-Sobre o Projeto 📖
-FarmaSUS é um aplicativo desenvolvido pela equipe GLOW como parte do TCC. O app é simples e prático, ajudando você a:
+# 🏥 Conheça o FarmaSUS
 
-Verificar a disponibilidade de medicamentos nas UBSs (Unidades Básicas de Saúde) mais próximas.
+## 📖 Sobre o Projeto
 
-Localizar UBSs no mapa e explorar diferentes regiões.
+O FarmaSUS foi desenvolvido no trabalho de conclusão de curso do **Curso de Desenvolvimento de Sistemas da ETEC de Guaianazes** pela equipe ✨ **GLOW**.  
+É um aplicativo simples e prático que ajuda você a:
 
-Pesquisar medicamentos pelo nome comercial, genérico ou composição.
+- Verificar se há medicamentos disponíveis nas UBSs mais próximas.  
+- Usar um mapa para encontrar a localização das UBSs.  
+- Pesquisar medicamentos pelo nome.  
+- Procurar UBSs específicas.  
+- Acessar informações sobre o programa **"Dignidade Menstrual do SUS"**, com vídeos e links úteis.  
+- Visualizar seu perfil com nome, CNS e foto.  
+- Saber mais sobre o que é o SUS.  
+- Enviar mensagens para os administradores via e-mail.  
 
-Consultar informações sobre o programa Dignidade Menstrual do SUS, com vídeos e links úteis.
+---
 
-Visualizar seu perfil com nome, CNS e foto.
+## 🛠️ Tecnologias Usadas
 
-Conhecer mais sobre o SUS.
+- **Frontend:** React Native (v10.8.3) ⚛️, TypeScript 🟦, JavaScript 🟨  
+- **Backend:** API 🌐 criada com Postman e conectada ao MySQL 🛢️  
+- **Servidor:** Configurado com Ngrok 🌍  
+- **Administração:** Site administrativo 🌐 para gerenciar dados  
 
-Enviar mensagens para os administradores via e-mail.
+---
 
-Tecnologias Usadas 🛠️
-Frontend: React Native (v10.8.3), TypeScript, JavaScript
+## 🌟 Funcionalidades
 
-Backend: API criada com Postman integrada ao MySQL
+### Mapa 🗺️
 
-Servidor: Configurado com Ngrok para expor o backend local
+- Veja as UBSs mais próximas.  
+- Explore diferentes regiões.  
 
-Administração: Site administrativo para gerenciar os dados
+### Pesquisa 🔍
 
-Funcionalidades 🌟
-Mapa:
+- Encontre medicamentos pelo nome comercial, genérico ou composição.  
 
-Visualize UBSs próximas e explore diferentes regiões.
+### Programa "Dignidade Menstrual" ℹ️
 
-Pesquisa:
+- Página com vídeos e links informativos.  
 
-Busque medicamentos por nome comercial, genérico ou composição.
+### Perfil 👤
 
-Programa "Dignidade Menstrual":
+- Veja suas informações e envie mensagens aos administradores.  
 
-Acesse vídeos e links informativos.
+---
 
-Perfil:
+## 🛠️ Como Usar
 
-Veja suas informações e envie mensagens aos administradores.
+### 🔧 O que Você Precisa
 
-Como Usar 🛠️
-Pré-requisitos
-Node.js e npm instalados
+- Node.js 🟩 e npm  
+- Expo CLI ⚙️  
+- Ngrok 🌍 para o backend  
 
-Expo CLI
+### 📋 Passos
 
-Ngrok para expor o backend local
-
-Passos para rodar
-Clone o repositório:
-
-bash
-Copiar
-Editar
+```bash
+# Clone o repositório
 git clone <url-do-repositorio>
-Instale as dependências:
 
-bash
-Copiar
-Editar
+# Instale as dependências
 npm install
-Inicie o aplicativo com Expo:
 
-bash
-Copiar
-Editar
+# Inicie o app com Expo
 expo start
-Configure o backend com Ngrok e Postman conforme instruções.
-

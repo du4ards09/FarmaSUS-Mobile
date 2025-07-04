@@ -15,6 +15,7 @@ O FarmaSUS foi desenvolvido no trabalho de conclusão de curso do **Curso de Des
 - Enviar mensagens para os administradores via e-mail.  
 
 ---
+🎥 [Assista ao vídeo demonstrativo aqui](https://www.youtube.com/watch?v=4yA9iqzI0tM)
 
 ## 🛠️ Tecnologias Usadas
 

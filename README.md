@@ -51,19 +51,19 @@ O FarmaSUS foi desenvolvido no trabalho de conclusão de curso do **Curso de Des
 ## 📸 Aplicativo 
 
 ![Imagem 1](https://github.com/du4ards09/FarmaSUS-Mobile/blob/main/Imagens/IMG-20250704-WA0016.jpg)
-![Imagem 2](./images/img2.png)  
-![Imagem 3](./images/img3.png)  
-![Imagem 4](./images/img4.png)  
-![Imagem 5](./images/img5.png)  
-![Imagem 6](./images/img6.png)  
-![Imagem 7](./images/img7.png)  
-![Imagem 8](./images/img8.png)  
-![Imagem 9](./images/img9.png)  
-![Imagem 10](./images/img10.png)  
-![Imagem 11](./images/img11.png)  
-![Imagem 12](./images/img12.png)  
-![Imagem 13](./images/img13.png)  
-![Imagem 14](./images/img14.png)  
+![Imagem 2](https://github.com/du4ards09/FarmaSUS-Mobile/blob/main/Imagens/IMG-20250704-WA0011.jpg)
+![Imagem 3]( https://github.com/du4ards09/FarmaSUS-Mobile/blob/main/Imagens/IMG-20250704-WA0017.jpg)
+![Imagem 4](https://github.com/du4ards09/FarmaSUS-Mobile/blob/main/Imagens/IMG-20250704-WA0010.jpg)  
+![Imagem 5]()  
+![Imagem 6]()  
+![Imagem 7]()  
+![Imagem 8]()  
+![Imagem 9]()  
+![Imagem 10]()  
+![Imagem 11]()  
+![Imagem 12]()  
+![Imagem 13]()  
+![Imagem 14]()  
 
 
 ## 🛠️ Como Usar

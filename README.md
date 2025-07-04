@@ -5,8 +5,8 @@
 O FarmaSUS foi desenvolvido no trabalho de conclusão de curso do **Curso de Desenvolvimento de Sistemas da ETEC de Guaianazes** pela equipe ✨ **GLOW**.  
 É um aplicativo simples e prático que ajuda você a:
 
-- Verificar se há medicamentos disponíveis nas UBSs mais próximas.  
-- Usar um mapa para encontrar a localização das UBSs.  
+- Verificar se há medicamentos disponíveis nas UBS mais próximas.  
+- Usar um mapa para encontrar a localização das UBS.  
 - Pesquisar medicamentos pelo nome.  
 - Procurar UBSs específicas.  
 - Acessar informações sobre o programa **"Dignidade Menstrual do SUS"**, com vídeos e links úteis.  

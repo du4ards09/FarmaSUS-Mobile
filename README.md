@@ -50,7 +50,7 @@ O FarmaSUS foi desenvolvido no trabalho de conclusão de curso do **Curso de Des
 
 ## 📸 Aplicativo 
 
-![Imagem 1](./images/img1.png)  
+![Imagem 1](https://github.com/du4ards09/FarmaSUS-Mobile/blob/main/Imagens/IMG-20250704-WA0016.jpg)
 ![Imagem 2](./images/img2.png)  
 ![Imagem 3](./images/img3.png)  
 ![Imagem 4](./images/img4.png)  

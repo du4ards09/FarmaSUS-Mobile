@@ -15,7 +15,8 @@ O FarmaSUS foi desenvolvido no trabalho de conclusão de curso do **Curso de Des
 - Enviar mensagens para os administradores via e-mail.  
 
 ---
-🎥 [Assista ao vídeo demonstrativo aqui](https://www.youtube.com/watch?v=4yA9iqzI0tM)
+# 🎥 [Assista ao vídeo demonstrativo aqui](https://www.youtube.com/watch?v=4yA9iqzI0tM)
+---
 
 ## 🛠️ Tecnologias Usadas
 
@@ -46,6 +47,24 @@ O FarmaSUS foi desenvolvido no trabalho de conclusão de curso do **Curso de Des
 - Veja suas informações e envie mensagens aos administradores.  
 
 ---
+
+## 📸 Aplicativo 
+
+![Imagem 1](./images/img1.png)  
+![Imagem 2](./images/img2.png)  
+![Imagem 3](./images/img3.png)  
+![Imagem 4](./images/img4.png)  
+![Imagem 5](./images/img5.png)  
+![Imagem 6](./images/img6.png)  
+![Imagem 7](./images/img7.png)  
+![Imagem 8](./images/img8.png)  
+![Imagem 9](./images/img9.png)  
+![Imagem 10](./images/img10.png)  
+![Imagem 11](./images/img11.png)  
+![Imagem 12](./images/img12.png)  
+![Imagem 13](./images/img13.png)  
+![Imagem 14](./images/img14.png)  
+
 
 ## 🛠️ Como Usar
 
